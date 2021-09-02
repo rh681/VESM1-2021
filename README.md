@@ -1,4 +1,4 @@
-# Verksmiðja 1 (2921)
+# Verksmiðja 1 (2021)
 
 
 Undir GPL v2 
